@@ -1,5 +1,4 @@
-# Capstone_Design_Project
-Proposal of an Efficient Pyrolysis Plant for Conversion of Microplastic Waste to Bio Fuel
+# Proposal of an Efficient Pyrolysis Plant for Conversion of Microplastic Waste to Bio Fuel
 
 Enclosed is a proposal of an efficient pyrolysis plant for conversion of microplastic waste and other biomass to biofuel. The objective of this project report is to analyze current recycling and microplastic removal options and design a process suitable for the City of Toronto that can be environmentally and economically beneficial for the local economy.
 
